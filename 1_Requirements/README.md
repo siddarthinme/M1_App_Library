@@ -7,3 +7,22 @@
 2. Access and update details of the book
 3. Issue and Return a book
 4. Add new books
+
+
+# 4W and 1H
+
+## 1. What? : 
+A library management is a project that manages and stores books information electronically according to students needs.
+## 2. Why? : 
+The Library Management System is gaining more importance as the number of its users are increasing rapidly. As the number is rising there is a need of effective management of library, one such effective system is Library Management System.
+## 3. When? : 
+When some one needs book. 
+## 4. Where? : 
+In library, it saves human efforts and resources. 
+## 5. HOW?
+Library Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the members, with the respective submission dates. Moreover, it also reduces the manual record burden of the librarian.
+
+
+# SWOT ANALYSIS
+
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/94165024/142718714-8a710df6-a592-44cd-80a1-5bdcb5440b56.png)
