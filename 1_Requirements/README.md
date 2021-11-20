@@ -25,7 +25,8 @@ Library Management Systems is software that helps to maintain a database that is
 
 # SWOT ANALYSIS
 
-![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/94165024/142718714-8a710df6-a592-44cd-80a1-5bdcb5440b56.png)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/94165024/142719242-6dd2c0d4-ae9a-4a60-9f21-7e13a4929940.png)
+
 
 # High Level Requirements
 | ID  | Discription | Catagery |
