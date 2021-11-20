@@ -26,3 +26,15 @@ Library Management Systems is software that helps to maintain a database that is
 # SWOT ANALYSIS
 
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/94165024/142718714-8a710df6-a592-44cd-80a1-5bdcb5440b56.png)
+
+# High Level Requirements
+| ID  | Discription | Catagery |
+| ------ | ------ | ------ |
+| HLR_01 | Visual Studio Code Platform | Software |
+| HLR_02 | Windows or Linux os | Sofware |
+
+# Low Level Requirements
+| ID | Description |
+| ----- | ----- |
+| LLR_01 | Admin |
+| LLR_02 | User |
