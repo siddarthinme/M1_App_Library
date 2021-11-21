@@ -8,6 +8,18 @@
 3. Issue and Return a book
 4. Add new books
 
+# OVERVIEW OF THE PROJECT
+This project will be implemented using two main modules containing multiple sub modules.
+
+## The two main modules are :
+1. Admin Module
+2. User Module
+
+## 1. ADMIN MODULE:
+The admin module deals with accessing and updating the details of the books and users. Admin module also has the right to issue books and collect the fine if necessary. Admin also add ne books to the database. Access to the admin module is protected with a password.
+
+## 2. USER MODULE:
+User module can be used to search for books by name, author. This module can also be used to track the books issued by a specific user using userid.
 
 # 4W and 1H
 
