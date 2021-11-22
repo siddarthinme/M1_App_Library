@@ -8,6 +8,21 @@
 3. Issue and Return a book
 4. Add new books
 
+# Features
+ - A modern integrated library management system (LMS).
+ - Can be scalable to Windows, Linux and Mac OS platform.
+ - Simple, clear search interface for all users
+ - Multilingual and multi-user support
+ - Export and import records
+ - Easy way to enter new books
+ - Keep record of complete info of a book like title, author name, publisher name etc.
+ - Easy way to check-in and check-out
+ - It is user-friendly software
+ - Keep record of different categories
+ - Classify the books subject wise
+ - Easy to maintain database
+ - It is cost effective
+
 # OVERVIEW OF THE PROJECT
 This project will be implemented using two main modules containing multiple sub modules.
 
