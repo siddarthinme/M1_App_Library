@@ -1,8 +1,9 @@
 #include "head.h"
 int main()
 {
-    init();
+    //init();
     welcomeMessage();
-    login();
+    //login();
+    menu();
     return 0;
 }
