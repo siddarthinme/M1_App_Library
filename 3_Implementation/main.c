@@ -3,6 +3,6 @@ int main()
 {
     init();
     welcomeMessage();
-    //login();
+    login();
     return 0;
 }
