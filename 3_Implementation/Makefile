@@ -24,7 +24,7 @@ src/login.c
 # All test source files
 TEST_SRC = test/testLibrary.c \
 Unity/unity.c \
-test/library.c
+src/Library.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
