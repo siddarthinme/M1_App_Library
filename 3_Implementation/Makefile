@@ -16,8 +16,18 @@ src/login.c
 
 INC = inc
 
+
 target : $(SRC)
 	gcc $^ -I$(INC) -o $@
 
 run : target
 	./target
+
+clean : 
+	rm target testing
+
+testing :
+	gcc test/testLibrary.c \
+Unity/unity.c \
+test/library.c -o $@
+	
