@@ -23,7 +23,7 @@ A library management is a project that manages and stores books information elec
 ## 4W and 1H
 - What? : A library management is a project that manages and stores books information electronically according to students needs
 - Why? : The Library Management System is gaining more importance as the number of its users are increasing rapidly. As the number is rising there is a need of effective management of library, one such effective system is Library Management System
-- When? : When someone needs book
+- When? : When someone needs book.
 - Where? : In library, it saves human efforts and resources
 - HOW? : Library Management Systems is software that helps to maintain a database that is useful to enter new books &amp; record books borrowed by the members, with the respective submission dates. Moreover, it also reduces the manual record burden of the librarian
 ## SWOT ANALYSIS
