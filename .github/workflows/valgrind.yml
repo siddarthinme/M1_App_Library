@@ -16,9 +16,9 @@ jobs:
       run: |
         sudo apt-get -y install valgrind
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
-    - name: make all
+    - name: make
       run: make all
-    - name: make all
+    - name: build
       run: make run
     - name: make test
       run: make -C 3_Implementation/ Test
