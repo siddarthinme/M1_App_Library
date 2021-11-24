@@ -1,19 +1,17 @@
-**LIBRARY MANAGEMENT SYSTEM**
+# LIBRARY MANAGEMENT SYSTEM
 
 A library management is a project that manages and stores books information electronically according to student&#39;s needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book. It becomes necessary for colleges to keep a continuous check on the books issued and returned and even calculate fine. This task if carried out manually will be tedious and includes chances of mistakes. These errors are avoided by allowing the system to keep track of information such as issue date, last date to return the book and even fine information and thus there is no need to keep manual track of this information which thereby avoids chances of mistakes.
 
 
-**The main objectives of this project are to**
-
- -Access and update details of the users
- -Access and update details of the book
- -Issue and return a book
- -Add new books
- -Delete lost books
+### The main objectives of this project are to
+ - Access and update details of the users
+ - Access and update details of the book
+ - Issue and return a book
+ - Add new books
+ - Delete lost books
 
 
 **Features**
-
  -Simple, clear search interface for all users
  -Can be scalable to Windows, Linux and Mac OS platform
  -Export and import records
@@ -28,12 +26,10 @@ A library management is a project that manages and stores books information elec
 
 
 **State of Art**
-
 ![state digram drawio](https://user-images.githubusercontent.com/94165024/143239033-7cfb5167-2708-489e-ba9b-655b89ecc117.png)
 
 
 **4W and 1H**
-
  1.What? : A library management is a project that manages and stores books information electronically according to students needs
  2.Why? : The Library Management System is gaining more importance as the number of its users are increasing rapidly. As the number is rising there is a need of effective management of library, one such effective system is Library Management System
  3.When? : When someone needs book
