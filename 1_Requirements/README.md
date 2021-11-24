@@ -30,38 +30,34 @@ This project will be implemented using two main modules containing multiple sub 
       1. Admin Module
       2. User Module
 
-# 1. ADMIN MODULE:
+1. ADMIN MODULE:
 The admin module deals with accessing and updating the details of the books and users. Admin module also has the right to issue books and collect the fine if necessary. Admin also add ne books to the database. Access to the admin module is protected with a password.
 
-# 2. USER MODULE:
+2. USER MODULE:
 User module can be used to search for books by name, author. This module can also be used to track the books issued by a specific user using userid.
 
-# 4W and 1H
+  4. 4W and 1H 
 
-# 1. What? : 
-A library management is a project that manages and stores books information electronically according to students needs.
-## 2. Why? : 
-The Library Management System is gaining more importance as the number of its users are increasing rapidly. As the number is rising there is a need of effective management of library, one such effective system is Library Management System.
-# 3. When? : 
-When some one needs book. 
-# 4. Where? : 
-In library, it saves human efforts and resources. 
-# 5. HOW?
-Library Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the members, with the respective submission dates. Moreover, it also reduces the manual record burden of the librarian.
+  - What? : A library management is a project that manages and stores books information electronically according to students needs 
+  - Why? : The Library Management System is gaining more importance as the number of its users are increasing rapidly. As the number is rising there is a need of effective management of library, one such effective system is Library Management System 
+  - When? : When some one needs book 
+  - Where? : In library, it saves human efforts and resources  
+  - HOW? : Library Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the members, with the respective submission dates. Moreover, it also reduces the manual record burden of the librarian 
 
 
-# SWOT ANALYSIS
+  4. SWOT ANALYSIS
 
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/94165024/142719242-6dd2c0d4-ae9a-4a60-9f21-7e13a4929940.png)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/94165024/143191423-59d126cf-00ae-47ca-aec4-18bcb85fda6c.png)
 
 
-# High Level Requirements
+
+High Level Requirements
 | ID  | Discription | Catagery |
 | ------ | ------ | ------ |
 | HLR_01 | Visual Studio Code Platform | Software |
 | HLR_02 | Windows or Linux os | Sofware |
 
-# Low Level Requirements
+Low Level Requirements
 | ID | Description |
 | ----- | ----- |
 | LLR_01 | Admin |
