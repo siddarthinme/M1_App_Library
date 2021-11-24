@@ -12,17 +12,17 @@ A library management is a project that manages and stores books information elec
 
 
 **Features**
- -Simple, clear search interface for all users
- -Can be scalable to Windows, Linux and Mac OS platform
- -Export and import records
- -Easy way to enter new books
- -Keep record of complete info of a book like title, author name, publisher name etc.
- -Easy way to check-in and check-out
- -It is user-friendly software
- -Keep record of different categories
- -Classify the books subject wise
- -Easy to maintain database
- -It is cost effective
+ - Simple, clear search interface for all users
+ - Can be scalable to Windows, Linux and Mac OS platform
+ - Export and import records
+ - Easy way to enter new books
+ - Keep record of complete info of a book like title, author name, publisher name etc.
+ - Easy way to check-in and check-out
+ - It is user-friendly software
+ - Keep record of different categories
+ - Classify the books subject wise
+ - Easy to maintain database
+ - It is cost effective
 
 
 **State of Art**
@@ -30,11 +30,11 @@ A library management is a project that manages and stores books information elec
 
 
 **4W and 1H**
- 1.What? : A library management is a project that manages and stores books information electronically according to students needs
- 2.Why? : The Library Management System is gaining more importance as the number of its users are increasing rapidly. As the number is rising there is a need of effective management of library, one such effective system is Library Management System
- 3.When? : When someone needs book
- 4.Where? : In library, it saves human efforts and resources
- 5.HOW? : Library Management Systems is software that helps to maintain a database that is useful to enter new books &amp; record books borrowed by the members, with the respective submission dates. Moreover, it also reduces the manual record burden of the librarian
+ - What? : A library management is a project that manages and stores books information electronically according to students needs
+ - Why? : The Library Management System is gaining more importance as the number of its users are increasing rapidly. As the number is rising there is a need of effective management of library, one such effective system is Library Management System
+ - When? : When someone needs book
+ - Where? : In library, it saves human efforts and resources
+ - HOW? : Library Management Systems is software that helps to maintain a database that is useful to enter new books &amp; record books borrowed by the members, with the respective submission dates. Moreover, it also reduces the manual record burden of the librarian
 
 
 **SWOT ANALYSIS**
