@@ -18,3 +18,6 @@ INC = inc
 
 target : $(SRC)
 	gcc $^ -I$(INC) -o $@
+
+run : target
+	./target
