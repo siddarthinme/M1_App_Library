@@ -56,5 +56,5 @@ A library management is a project that manages and stores books information elec
 **Low Level Requirements**
 | ID | Description |
 | ----- | ----- |
-| LLR_01 | Admin |
-| LLR_02 | User |
+| LLR_01 | Book Information|
+| LLR_02 | Login credentials |
