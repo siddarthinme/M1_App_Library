@@ -5,11 +5,11 @@ A library management is a project that manages and stores books information elec
 
 **The main objectives of this project are to**
 
-- Access and update details of the users
-- Access and update details of the book
-- Issue and return a book
-- Add new books
-- Delete lost books
+ - Access and update details of the users
+ - Access and update details of the book
+ - Issue and return a book
+ - Add new books
+ - Delete lost books
 
 
 **Features**
