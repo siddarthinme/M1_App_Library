@@ -1,11 +1,20 @@
-SRC = main.c \
-addbook.c \
-displayinfo.c \
-listbooks.c \
-searchbook.c \
-countbook.c 
+SRC = src/main.c \
+src/addBookInDataBase.c \
+src/deleteBooks.c \
+src/headMessage.c \
+src/init.c \
+src/isValidDate.c \
+src/isFileExists.c \
+src/isNameValid.c \
+src/menu.c \
+src/printMessageCenter.c \
+src/searchBooks.c \
+src/updateCredential.c \
+src/viewBooks.c \
+src/welcomeMessage.c \
+src/login.c 
 
-INC = head.h
+INC = inc
 
-target : $(SRC) $(INC)
-	gcc $(SRC) -o a.out
+target : $(SRC)
+	gcc $^ -I$(INC) -o $@
