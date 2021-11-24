@@ -5,7 +5,7 @@ PROJECT_NAME = library
 BUILD = build
 
 # All source code files
-SRC = src/main.c \
+SRC = main.c \
 src/addBookInDataBase.c \
 src/deleteBooks.c \
 src/headMessage.c \
