@@ -10,3 +10,13 @@ A library management is a project that manages and stores books information elec
 | cpp check | Code Quality Score |
 | ----- | ----- |
 | [![Code Quality - Static Code - Cppcheck](https://github.com/siddarthinme/M1_App_Library/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/siddarthinme/M1_App_Library/actions/workflows/Cppcheck.yml) | ![Code Grade](https://api.codiga.io/project/30081/score/svg)   |
+## Folder Structure
+| Folder | Description |
+| ----- | ----- |
+| 1_Requirements | Documents detailing requirements and  research |
+| 2_Design | Documents specifying design details |
+| 3_Implementation | All code and documentation |
+| 4_TestPlanAndOutput | Documents with test plans and procedures |
+| 5_Report | Documentation of the whole Project |
+| 6_ImagesAndVideos | Output of the Project |
+| 7_Other | Miscellaneous Documents of the Project |
