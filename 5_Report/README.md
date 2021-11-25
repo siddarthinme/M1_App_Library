@@ -81,7 +81,3 @@ A library management is a project that manages and stores books information elec
 ![Update Password](https://user-images.githubusercontent.com/94165024/143398143-8c83a1e4-8eac-448b-940c-3285993f767e.png)
 ## Exit page
 ![Exit](https://user-images.githubusercontent.com/94165024/143398173-d21faadb-2287-478e-8302-c675613d22ea.png)
-
-
-
-
