@@ -4,9 +4,7 @@ void headMessage(const char *message)
 {
     system("cls");
     printf("\t\t\t###########################################################################");
-    printf("\n\t\t\t############                                                   ############");
-    printf("\n\t\t\t############      Library management System Project in C       ############");
-    printf("\n\t\t\t############                                                   ############");
+    printf("\n\t\t\t############   Welcome to Library management System Project    ############");
     printf("\n\t\t\t###########################################################################");
     printf("\n\t\t\t---------------------------------------------------------------------------\n");
     printMessageCenter(message);

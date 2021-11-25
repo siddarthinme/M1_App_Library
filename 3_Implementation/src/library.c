@@ -1,4 +1,4 @@
-#include "library.h"
+#include "../inc/library.h"
 int div(int num1, int num2)
 {
     if(num2 == 0)
