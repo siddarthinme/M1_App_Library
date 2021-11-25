@@ -61,7 +61,7 @@ A library management is a project that manages and stores books information elec
 | ----- | ----- | ----- | ----- |
 | LL_01 | On the click of Exit | Software will terminate for the app | Successful |
 | LL_02 | On the click of invalid input | Software will terminate by saying try again and opens again from login page | Successful |
-## Library Management System
+## Library Management System gif
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/94165024/143393215-0f1d3365-f603-42d2-b976-773c9616f53a.gif)
 ## For full video click below
 [![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/94165024/143396629-a76cf3b3-30ea-4c06-872f-da309ec09140.png)](https://www.youtube.com/watch?v=NI_IB0Beu54=YOUTUBE_VIDEO_ID_HERE)
