@@ -1,5 +1,5 @@
 # Test Plan and Output
-### High Level Test Plan
+## High Level Test Plan
 | Test case No. | Test case | Expected Results | Output |
 | ----- | ----- | ----- | ----- |
 | HL_01 | Enter valid username and Password and clck enter | Software should display Menu window | Successful |
@@ -9,7 +9,7 @@
 | HL_05 | On the click of Search book | Sofware should ask for book ID | Successful |
 | HL_06 | On the click of Delete Book |  Sofware should ask for book ID and delete the specified Book | Successful |
 | HL_07 | On the click of Update password | Software should ask for new Username and new Password - And update same in database | Successful |
-### Low Level Test Plan
+## Low Level Test Plan
 | Test case No. | Test case | Expected Results | Output |
 | ----- | ----- | ----- | ----- |
 | LL_01 | On the click of Exit | Software will terminate for the app | Successful |
