@@ -1,5 +1,5 @@
 #include "../Unity/unity.h"
-#include "../src/library.h"
+#include "../inc/library.h"
 
 /* Required by the unity test framework */
 void setUp(){}
