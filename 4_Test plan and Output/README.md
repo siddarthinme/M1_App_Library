@@ -14,4 +14,3 @@
 | ----- | ----- | ----- | ----- |
 | LL_01 | On the click of Exit | Software will terminate for the app | Successful |
 | LL_02 | On the click of invalid input | Software will terminate by saying try again and opens again from login page | Successful |
-
