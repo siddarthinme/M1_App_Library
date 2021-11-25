@@ -7,17 +7,17 @@ A library management is a project that manages and stores books information elec
 4.  Add new books
 5.  Delete lost books
 ## Features
-- Simple, clear search interface for all users
-- Can be scalable to Windows, Linux and Mac OS platform
-- Export and import records
-- Easy way to enter new books
-- Keep record of complete info of a book like title, author name, publisher name etc.
-- Easy way to check-in and check-out
-- It is user-friendly software
-- Keep record of different categories
-- Classify the books subject wise
-- Easy to maintain database
-- It is cost effective
+1. Simple, clear search interface for all users
+2. Can be scalable to Windows, Linux and Mac OS platform
+3. Export and import records
+4. Easy way to enter new books
+5. Keep record of complete info of a book like title, author name, publisher name etc.
+6. Easy way to check-in and check-out
+7. It is user-friendly software
+8. Keep record of different categories
+9. Classify the books subject wise
+10. Easy to maintain database
+11. It is cost effective
 ## State of Art
 ![state digram drawio](https://user-images.githubusercontent.com/94165024/143239033-7cfb5167-2708-489e-ba9b-655b89ecc117.png)
 ## 4W and 1H
