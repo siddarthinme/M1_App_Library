@@ -1,9 +1,8 @@
-#include "head.h"
+#include "../inc/head.h"
 int main()
 {
     init();
     welcomeMessage();
     login();
-    menu();
     return 0;
 }
